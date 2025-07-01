@@ -13,10 +13,10 @@ export default function Sobre() {
           <div className="text-center">
             <Badge className="mb-4 bg-blue-100 text-blue-800 hover:bg-blue-100">💪 Nossa História</Badge>
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Sobre o<span className="text-blue-600 block">GymFlow</span>
+              Sobre o<span className="text-blue-600 block">Wellnest</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Nascemos da necessidade de simplificar a gestão de academias, oferecendo tecnologia de ponta para
+              Nascemos da necessidade de simplificar a gestão de negócios esportivos, oferecendo tecnologia de ponta para
               proprietários focarem no que realmente importa: seus alunos e resultados.
             </p>
           </div>
@@ -34,7 +34,7 @@ export default function Sobre() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Nossa Missão</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Democratizar o acesso a ferramentas de gestão profissionais para academias de todos os tamanhos,
+                  Democratizar o acesso a ferramentas de gestão profissionais para negócios esportivos de todos os tamanhos,
                   automatizando processos e maximizando resultados.
                 </p>
               </CardContent>
@@ -47,7 +47,7 @@ export default function Sobre() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Nossa Visão</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Ser a plataforma de gestão mais utilizada por academias no Brasil, reconhecida pela inovação,
+                  Ser a plataforma de gestão mais utilizada por negócios esportivos no Brasil, reconhecida pela inovação,
                   simplicidade e resultados excepcionais.
                 </p>
               </CardContent>
@@ -77,16 +77,16 @@ export default function Sobre() {
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Como tudo começou</h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  O GymFlow nasceu da experiência real de proprietários de academias que enfrentavam diariamente os
+                  a Wellnest nasceu da experiência real de proprietários de negócios esportivos que enfrentavam diariamente os
                   desafios de gestão: controle de pagamentos, inadimplência, relatórios manuais e falta de insights para
                   tomar decisões estratégicas.
                 </p>
                 <p>
-                  Percebemos que muitas academias perdiam tempo e dinheiro com processos manuais que poderiam ser
+                  Percebemos que muitos negócios esportivos perdiam tempo e dinheiro com processos manuais que poderiam ser
                   automatizados. Foi então que decidimos criar uma solução completa, intuitiva e acessível.
                 </p>
                 <p>
-                  Hoje, o GymFlow é utilizado por centenas de academias em todo o Brasil, ajudando proprietários a
+                  Hoje, a Wellnest é utilizado por centenas de negócios esportivos em todo o Brasil, ajudando proprietários a
                   reduzir custos operacionais, aumentar receitas e focar no que realmente importa: proporcionar a melhor
                   experiência para seus alunos.
                 </p>
@@ -96,7 +96,7 @@ export default function Sobre() {
               <div className="grid grid-cols-2 gap-6 text-center">
                 <div>
                   <div className="text-3xl font-bold text-blue-600 mb-2">10+</div>
-                  <p className="text-gray-600">Academias Atendidas</p>
+                  <p className="text-gray-600">Negócios Esportivos Atendidos</p>
                 </div>
                 <div>
                   <div className="text-3xl font-bold text-green-600 mb-2">2K+</div>
@@ -166,7 +166,7 @@ export default function Sobre() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Vamos crescer juntos?</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Faça parte da nossa comunidade de academias de sucesso. Teste o GymFlow gratuitamente e veja a diferença.
+            Faça parte da nossa comunidade de negócios esportivos de sucesso. Teste a Wellnest gratuitamente e veja a diferença.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" className="text-lg px-8 py-3" asChild>

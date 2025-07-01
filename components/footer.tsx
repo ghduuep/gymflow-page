@@ -9,16 +9,16 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Dumbbell className="h-8 w-8 text-blue-400" />
-              <span className="text-2xl font-bold">GymFlow</span>
+              <span className="text-2xl font-bold">Wellnest</span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
-              Solução completa para gestão de academias com automação financeira, controle de alunos e insights
+              Solução completa para gestão de negócios esportivos com automação financeira, controle de alunos e insights
               inteligentes com IA.
             </p>
             <div className="space-y-2">
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-blue-400" />
-                <span className="text-gray-300">contato@gymflow.com</span>
+                <span className="text-gray-300">contato@wellnest.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-blue-400" />

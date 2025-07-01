@@ -31,11 +31,11 @@ export default function Funcionalidades() {
           <div className="text-center">
             <Badge className="mb-4 bg-blue-100 text-blue-800 hover:bg-blue-100">🚀 Recursos Completos</Badge>
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Todas as
-              <span className="text-blue-600 block">Funcionalidades</span>
+              Tudo que você precisa para
+              <span className="text-blue-600 block">gerir seu negócio</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Descubra como o GymFlow pode revolucionar a gestão da sua academia com ferramentas poderosas e automação
+              Descubra como a Wellnest pode revolucionar a gestão do seu negócio esportivo com ferramentas poderosas e automação
               inteligente.
             </p>
           </div>
@@ -150,7 +150,7 @@ export default function Funcionalidades() {
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">2. Automação Financeira e Pagamentos</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Simplifique seu processo de cobrança com a automação inteligente do GymFlow, economizando tempo e
+              Simplifique seu processo de cobrança com a automação inteligente da Wellnest, economizando tempo e
               reduzindo a inadimplência.
             </p>
           </div>
@@ -487,7 +487,7 @@ export default function Funcionalidades() {
             Pronto para experimentar todas essas funcionalidades?
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Solicite seu orçamento personalizado e descubra como o GymFlow pode transformar a gestão da sua academia.
+            Solicite seu orçamento personalizado e descubra como a Wellnest pode transformar a gestão do seu negócio esportivo.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" className="text-lg px-8 py-3" asChild>

@@ -16,7 +16,7 @@ export default function Orcamento() {
               <span className="text-blue-600 block">Especialistas</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Converse com nossa equipe especializada em gestão de academias e descubra como o GymFlow pode transformar
+              Converse com nossa equipe especializada em gestão de negócios esportivos e descubra como a Wellnest pode transformar
               seu negócio.
             </p>
           </div>
@@ -108,7 +108,7 @@ export default function Orcamento() {
                 </svg>
               </div>
               <h3 className="font-semibold text-gray-900 mb-1">E-mail</h3>
-              <p className="text-gray-600">contato@gymflow.com</p>
+              <p className="text-gray-600">contato@wellnest.com</p>
             </div>
           </div>
         </div>

@@ -10,6 +10,10 @@ import {
   Star,
   ArrowRight,
   Zap,
+  Dumbbell,
+  Swords,
+  Trophy,
+  Target,
   Shield,
   TrendingUp,
 } from "lucide-react"
@@ -22,10 +26,10 @@ export default function Home() {
       <section className="bg-gradient-to-br from-blue-50 to-indigo-100 py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <Badge className="mb-4 bg-blue-100 text-blue-800 hover:bg-blue-100">🚀 Revolucione sua academia</Badge>
+            <Badge className="mb-4 bg-blue-100 text-blue-800 hover:bg-blue-100">🚀 Revolucione seu negócio esportivo</Badge>
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
               Gestão Completa para
-              <span className="text-blue-600 block">Academias Modernas</span>
+              <span className="text-blue-600 block">Negócios Esportivos</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Automatize pagamentos, controle alunos e planos, e tome decisões inteligentes com insights de IA. Tudo em
@@ -46,11 +50,66 @@ export default function Home() {
         </div>
       </section>
 
+     <section className="py-20 bg-white">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+              Para todos os tipos de negócios esportivos
+            </h2>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+              Uma solução completa que se adapta ao seu segmento
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6">
+            <Card className="text-center p-6 hover:shadow-lg transition-shadow">
+              <CardContent className="pt-6">
+                <Dumbbell className="h-12 w-12 text-blue-600 mx-auto mb-4" />
+                <h3 className="text-lg font-semibold mb-2">Academias</h3>
+                <p className="text-gray-600 text-sm">Musculação, Crossfit, Funcional</p>
+              </CardContent>
+            </Card>
+
+            <Card className="text-center p-6 hover:shadow-lg transition-shadow">
+              <CardContent className="pt-6">
+                <Swords className="h-12 w-12 text-red-600 mx-auto mb-4" />
+                <h3 className="text-lg font-semibold mb-2">Lutas</h3>
+                <p className="text-gray-600 text-sm">MMA, Boxe, Jiu-jitsu, Karatê</p>
+              </CardContent>
+            </Card>
+
+            <Card className="text-center p-6 hover:shadow-lg transition-shadow">
+              <CardContent className="pt-6">
+                <Trophy className="h-12 w-12 text-green-600 mx-auto mb-4" />
+                <h3 className="text-lg font-semibold mb-2">Escolas Esportivas</h3>
+                <p className="text-gray-600 text-sm">Beach tennis, Tênis, Natação</p>
+              </CardContent>
+            </Card>
+
+            <Card className="text-center p-6 hover:shadow-lg transition-shadow">
+              <CardContent className="pt-6">
+                <Target className="h-12 w-12 text-purple-600 mx-auto mb-4" />
+                <h3 className="text-lg font-semibold mb-2">Quadras</h3>
+                <p className="text-gray-600 text-sm">Padel, Squash, Futsal</p>
+              </CardContent>
+            </Card>
+
+            <Card className="text-center p-6 hover:shadow-lg transition-shadow">
+              <CardContent className="pt-6">
+                <Users className="h-12 w-12 text-orange-600 mx-auto mb-4" />
+                <h3 className="text-lg font-semibold mb-2">Estúdios</h3>
+                <p className="text-gray-600 text-sm">Pilates, Yoga, Dança</p>
+              </CardContent>
+            </Card>
+          </div>
+        </div>
+      </section>
+
       {/* Features Overview */}
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Por que escolher o GymFlow?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Por que escolher a Wellnest?</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">Uma solução completa que cresce com seu negócio</p>
           </div>
 
@@ -172,7 +231,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">O que nossos clientes dizem</h2>
-            <p className="text-xl text-gray-600">Academias que já transformaram seus resultados com o GymFlow</p>
+            <p className="text-xl text-gray-600">Academias que já transformaram seus resultados com a Wellnest</p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -184,7 +243,7 @@ export default function Home() {
                   ))}
                 </div>
                 <p className="text-gray-600 mb-4">
-                  "O GymFlow revolucionou nossa gestão financeira. Reduzimos a inadimplência em 60% e economizamos 10
+                  "a Wellnest revolucionou nossa gestão financeira. Reduzimos a inadimplência em 60% e economizamos 10
                   horas por semana em tarefas administrativas."
                 </p>
                 <div className="flex items-center">
@@ -251,9 +310,9 @@ export default function Home() {
       {/* CTA Section */}
       <section className="py-20 bg-blue-600">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Pronto para transformar sua academia?</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Pronto para transformar seu negócio esportivo?</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Junte-se a centenas de academias que já otimizaram sua gestão com o GymFlow. Solicite seu orçamento
+            Junte-se a centenas de negócios esportivos que já otimizaram sua gestão com o Wellnest. Solicite seu orçamento
             personalizado sem compromisso.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

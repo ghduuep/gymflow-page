@@ -229,7 +229,7 @@ export default function Contato() {
                     <Mail className="h-5 w-5 text-blue-600 mt-1" />
                     <div>
                       <h4 className="font-semibold text-gray-900">E-mail</h4>
-                      <p className="text-gray-600">contato@gymflow.com</p>
+                      <p className="text-gray-600">contato@wellnest.com</p>
                       <p className="text-sm text-gray-500">Resposta em até 24h</p>
                     </div>
                   </div>

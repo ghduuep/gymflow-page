@@ -25,11 +25,11 @@ export default function Demonstracao() {
           <div className="text-center">
             <Badge className="mb-4 bg-blue-100 text-blue-800 hover:bg-blue-100">🎥 Demonstração Completa</Badge>
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Veja o GymFlow
+              Veja a Wellnest
               <span className="text-blue-600 block">em Ação</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              Assista nossa demonstração completa e descubra como o GymFlow pode revolucionar a gestão da sua academia
+              Assista nossa demonstração completa e descubra como a Wellnest pode revolucionar a gestão do seu negócio esportivo
               em apenas 15 minutos.
             </p>
           </div>
@@ -47,7 +47,7 @@ export default function Demonstracao() {
                   <div className="flex items-center justify-center w-20 h-20 bg-white/20 rounded-full mb-4 mx-auto backdrop-blur-sm">
                     <Play className="h-8 w-8 ml-1" />
                   </div>
-                  <h3 className="text-2xl font-bold mb-2">Demonstração do GymFlow</h3>
+                  <h3 className="text-2xl font-bold mb-2">Demonstração da Wellnest</h3>
                   <p className="text-blue-100 mb-4">Veja todas as funcionalidades em ação</p>
                   <Button size="lg" variant="secondary" className="bg-white text-gray-900 hover:bg-gray-100">
                     Assistir Demonstração
@@ -93,7 +93,7 @@ export default function Demonstracao() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">O que você verá na demonstração</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Uma visão completa de como o GymFlow funciona na prática
+              Uma visão completa de como a Wellnest funciona na prática
             </p>
           </div>
 
@@ -147,7 +147,7 @@ export default function Demonstracao() {
                   <div>
                     <h3 className="font-semibold text-gray-900">Veja na prática</h3>
                     <p className="text-gray-600">
-                      Entenda exatamente como cada funcionalidade funciona no dia a dia da sua academia
+                      Entenda exatamente como cada funcionalidade funciona no dia a dia do seu negócio esportivo
                     </p>
                   </div>
                 </div>
@@ -156,7 +156,7 @@ export default function Demonstracao() {
                   <div>
                     <h3 className="font-semibold text-gray-900">Casos reais</h3>
                     <p className="text-gray-600">
-                      Exemplos práticos de como outras academias usam o GymFlow para crescer
+                      Exemplos práticos de como outros negócios esportivos usam a Wellnest para crescer
                     </p>
                   </div>
                 </div>
@@ -183,7 +183,7 @@ export default function Demonstracao() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">Demonstração Premiada</h3>
                 <p className="text-gray-600 mb-6">
-                  Nossa demonstração foi desenvolvida com base no feedback de centenas de proprietários de academias
+                  Nossa demonstração foi desenvolvida com base no feedback de centenas de proprietários de negócios esportivos
                 </p>
                 <div className="grid grid-cols-2 gap-4 text-center">
                   <div>
@@ -212,7 +212,7 @@ export default function Demonstracao() {
             <Card className="p-6">
               <CardContent className="pt-6">
                 <p className="text-gray-600 mb-4">
-                  "A demonstração me mostrou exatamente como o GymFlow resolveria meus problemas de inadimplência. Muito
+                  "A demonstração me mostrou exatamente como a Wellnest resolveria meus problemas de inadimplência. Muito
                   clara e objetiva!"
                 </p>
                 <div className="flex items-center">
@@ -248,7 +248,7 @@ export default function Demonstracao() {
             <Card className="p-6">
               <CardContent className="pt-6">
                 <p className="text-gray-600 mb-4">
-                  "Adorei poder assistir no meu tempo. A demonstração me convenceu de que o GymFlow é exatamente o que
+                  "Adorei poder assistir no meu tempo. A demonstração me convenceu de que a Wellnest é exatamente o que
                   precisava."
                 </p>
                 <div className="flex items-center">
@@ -271,8 +271,8 @@ export default function Demonstracao() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Gostou da demonstração?</h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Agora que você viu como o GymFlow funciona, que tal conversar com nossa equipe para entender como
-            implementar na sua academia?
+            Agora que você viu como a Wellnest funciona, que tal conversar com nossa equipe para entender como
+            implementar no seu negócio esportivo?
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" className="text-lg px-8 py-3" asChild>
