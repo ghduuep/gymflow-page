@@ -55,7 +55,7 @@ export function OrcamentoForm() {
           <h3 className="text-2xl font-bold text-gray-900 mb-2">Solicitação Enviada com Sucesso!</h3>
           <p className="text-gray-600 mb-4">
             Recebemos sua solicitação. Nossa equipe especializada entrará em contato em até 24 horas para uma
-            consultoria personalizada sobre como o GymFlow pode transformar sua academia.
+            consultoria personalizada sobre como a Wellnest pode transformar sua academia.
           </p>
           <Badge className="bg-blue-100 text-blue-800">Resposta em até 24h</Badge>
         </CardContent>
@@ -256,7 +256,7 @@ export function OrcamentoForm() {
           <div className="text-center text-sm text-gray-500">
             <p>* Campos obrigatórios</p>
             <p className="mt-1">
-              Ao enviar este formulário, você concorda em receber comunicações comerciais do GymFlow.
+              Ao enviar este formulário, você concorda em receber comunicações comerciais da Wellnest.
             </p>
           </div>
         </form>
