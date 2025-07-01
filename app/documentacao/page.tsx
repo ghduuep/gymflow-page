@@ -18,7 +18,7 @@ export default function Documentacao() {
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Estamos preparando uma documentação completa e detalhada para ajudar você a aproveitar ao máximo todas as
-              funcionalidades do GymFlow.
+              funcionalidades da Wellnest.
             </p>
           </div>
         </div>
@@ -30,7 +30,7 @@ export default function Documentacao() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">O que você encontrará em breve</h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Nossa documentação será completa e fácil de seguir, com tudo que você precisa para dominar o GymFlow
+              Nossa documentação será completa e fácil de seguir, com tudo que você precisa para dominar a Wellnest
             </p>
           </div>
 
@@ -50,7 +50,7 @@ export default function Documentacao() {
                 <Video className="h-12 w-12 text-green-600 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Vídeo Tutoriais</h3>
                 <p className="text-gray-600">
-                  Demonstrações em vídeo mostrando como realizar tarefas específicas no GymFlow
+                  Demonstrações em vídeo mostrando como realizar tarefas específicas na Wellnest
                 </p>
               </CardContent>
             </Card>
@@ -77,7 +77,7 @@ export default function Documentacao() {
               <CardContent className="pt-6">
                 <Clock className="h-12 w-12 text-red-600 mx-auto mb-4" />
                 <h3 className="text-xl font-semibold mb-2">Guia de Início Rápido</h3>
-                <p className="text-gray-600">Como começar a usar o GymFlow em poucos minutos após a contratação</p>
+                <p className="text-gray-600">Como começar a usar a Wellnest em poucos minutos após a contratação</p>
               </CardContent>
             </Card>
 
