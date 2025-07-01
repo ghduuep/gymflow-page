@@ -13,7 +13,7 @@ export default function Sobre() {
           <div className="text-center">
             <Badge className="mb-4 bg-blue-100 text-blue-800 hover:bg-blue-100">💪 Nossa História</Badge>
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Sobre o<span className="text-blue-600 block">Wellnest</span>
+              Sobre a<span className="text-blue-600 block">Wellnest</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Nascemos da necessidade de simplificar a gestão de negócios esportivos, oferecendo tecnologia de ponta para
@@ -96,7 +96,7 @@ export default function Sobre() {
               <div className="grid grid-cols-2 gap-6 text-center">
                 <div>
                   <div className="text-3xl font-bold text-blue-600 mb-2">10+</div>
-                  <p className="text-gray-600">Negócios Esportivos Atendidos</p>
+                  <p className="text-gray-600">Negócios Atendidos</p>
                 </div>
                 <div>
                   <div className="text-3xl font-bold text-green-600 mb-2">2K+</div>
@@ -154,7 +154,7 @@ export default function Sobre() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Resultados Comprovados</h3>
               <p className="text-gray-600">
-                Nossas academias parceiras relatam redução de 60% na inadimplência e aumento de 40% na receita média.
+                Nossos negócios parceiros relatam redução de 60% na inadimplência e aumento de 40% na receita média.
               </p>
             </div>
           </div>
