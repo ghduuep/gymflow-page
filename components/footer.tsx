@@ -80,7 +80,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
-          <p className="text-gray-400">© 2025 GymFlow. Todos os direitos reservados.</p>
+          <p className="text-gray-400">© 2025 Wellnest. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>
