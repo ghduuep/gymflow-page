@@ -8,9 +8,9 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "GymFlow - Gestão Completa para Academias",
+  title: "Wellnest - Gestão Completa para Negócios Esportivos",
   description:
-    "Solução completa para gestão de academias com automação financeira, controle de alunos e insights com IA.",
+    "Solução completa para gestão de negócios esportivos com automação financeira, controle de alunos e insights com IA.",
     generator: 'v0.dev'
 }
 
