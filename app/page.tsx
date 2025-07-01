@@ -82,7 +82,7 @@ export default function Home() {
               <CardContent className="pt-6">
                 <Trophy className="h-12 w-12 text-green-600 mx-auto mb-4" />
                 <h3 className="text-lg font-semibold mb-2">Escolas Esportivas</h3>
-                <p className="text-gray-600 text-sm">Beach tennis, Tênis, Natação</p>
+                <p className="text-gray-600 text-sm">Beach Tennis, Tênis, Natação</p>
               </CardContent>
             </Card>
 
